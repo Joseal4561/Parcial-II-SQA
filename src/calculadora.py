@@ -1,6 +1,7 @@
 import math
 from interfaces.i_calculadora import ICalculadora
 
+
 class Calculadora(ICalculadora):
     """Calculadora científica con operaciones básicas y avanzadas"""
     

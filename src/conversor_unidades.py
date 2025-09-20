@@ -1,5 +1,3 @@
-conversor_unidades.py
-
 from interfaces.i_conversor import IConversor
 
 class ConversorUnidades(IConversor):
